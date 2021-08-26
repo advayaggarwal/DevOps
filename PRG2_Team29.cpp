@@ -1,7 +1,3 @@
-/*
-	AUTHOR:			ADVAY AGGARWAL
-*/
-
 //Code for Sieve of Eratosthenes
 
 #include<bits/stdc++.h>
