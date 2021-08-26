@@ -36,8 +36,6 @@ void sieve()
 int main()
 {
 	sieve();
-	int t;
-	cin>>t;
 	test_cases(t)
 	{
 		int n;
