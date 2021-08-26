@@ -1,9 +1,4 @@
-/*
-	AUTHOR:			ADVAY AGGARWAL
-*/
-
 //Code for Merge Sort
-
 #include<bits/stdc++.h>
 using namespace std;
 #define mod		1000000007 //1e9+7	ans%mod
